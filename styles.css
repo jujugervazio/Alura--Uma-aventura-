@@ -11,4 +11,6 @@ body{
 
 button{
     background-color: rgb(120, 12, 91);
+    color: white;
+    font-family: "Baskervville SC", serif;
 }
