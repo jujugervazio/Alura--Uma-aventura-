@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(131, 225, 131);
-    color: white;
+    background-color: rgba(55, 190, 178, 0.71);
+    color: rgb(12, 10, 10);
     font-family: "Baskervville SC", serif;
     display: flex;
     justify-content: center; 
